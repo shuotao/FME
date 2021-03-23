@@ -18,10 +18,31 @@
 * 確認2. IFC開口階層構造について
 * 確認3. 各パラメーター設定
 
+## Versioning
+
+2021年4月　公開予定
+
+## 共同作者
+
+日建設計
+※主な協議、相談相手
+・国交省都市局
+・国交省住宅局
+・bSJ（ifcについて）
+・日立（citygmlについて
+・fmeについて：ベンダー
+
+
 ## 開発について
 
 FME Community 2020.12. BIM to GIS (Intermediate) | IFC LOD 300 to LOD 4 CityGML. 最終アクセス日2021年3月.
 https://community.safe.com/s/article/bim-to-gis-intermediate-ifc-lod-300-to-lod-4-cityg
+
+## License
+なし
+
+
+
 
 
 
