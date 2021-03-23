@@ -4,7 +4,8 @@
 
 ## Ifc to CityGML変換手順
 
-今回はFME Desktopを変換利用しています。※FME：Safe Software Inc. (カナダ) 登録商標
+今回はFME Desktopを変換利用しています。
+※FME：Safe Software Inc. (カナダ) 登録商標
 
 ### 変換例
 
