@@ -1,88 +1,27 @@
-# Project Title
+# IFC to CityGMLへの変換ガイド
 
-One Paragraph of project description goes here
+本書作成時点において、IFCからCItyGMLへの変換を自動的に実施できるツールの公開は確認できていませんが、研究段階・実験段階での変換方法がツールと共に公開されています。
 
-## Getting Started
+## Ifc to CityGML変換手順
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+今回はFME Desktopを変換利用しています。※FME：Safe Software Inc. (カナダ) 登録商標
 
-### Prerequisites
+### 変換例
 
-What things you need to install the software and how to install them
+1.ソフトウェアの起動
+2. 変換元の建物ファイル(IFC)と各ファイルの読み込み
+3. 変換確認 ”Run” と保存
 
-```
-Give examples
-```
+### モデル変換後の確認
 
-### Installing
+確認1. 変換後モデルチェック
+確認2. IFC開口階層構造について
+確認3. 各パラメーター設定
 
-A step by step series of examples that tell you how to get a development env running
+## 開発について
 
-Say what the step will be
+FME Community 2020.12. BIM to GIS (Intermediate) | IFC LOD 300 to LOD 4 CityGML. 最終アクセス日2021年3月.
+https://community.safe.com/s/article/bim-to-gis-intermediate-ifc-lod-300-to-lod-4-cityg
 
-```
-Give the example
-```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
